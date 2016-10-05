@@ -1,0 +1,19 @@
+{
+  "name": "jquery-exfiltrate-plugin",
+  "version": "1.0.0",
+  "description": "an embarrassingly simple, yet extraordinary handy plugin, that combines the filter function (which returns only top level elements matching the selector) and find function (which returns only descendent elements matching the selector) into one handy call. Useful for exfiltrating matching elements when jquery object DOM/nesting structure is unknown or mixed.",
+  "main": "jquery-exfiltrate-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goblortikus/jquery-exfiltrate-plugin.git"
+  },
+  "author": "Monir Mamoun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goblortikus/jquery-exfiltrate-plugin/issues"
+  },
+  "homepage": "https://github.com/goblortikus/jquery-exfiltrate-plugin#readme"
+}
